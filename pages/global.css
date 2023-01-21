@@ -1,5 +1,5 @@
 .header_text {
-    color: white;
+    color: rgb(255, 255, 255);
     font-family: Georgia, "Times New Roman", Times, serif;
   }
   
@@ -20,7 +20,7 @@
   .centerDiv {
     width: 99vw !important;
     height: 110vh !important;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     background-image: url("../img/pozadina.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -53,7 +53,7 @@
   .middle_div {
     grid-column-start: 2;
     grid-column-end: 3;
-    background-color: rgb(10, 10, 10);
+    background-color: rgb(156, 156, 156);
     opacity: 0.9;
   }
   

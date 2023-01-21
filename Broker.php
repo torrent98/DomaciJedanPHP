@@ -7,7 +7,7 @@
 
         public function __construct(){
 
-            $this->mysqli = new mysqli("localhost", "root", "", "php_domaci");
+            $this->mysqli = new mysqli("localhost", "root", "", "fif_servis");
             
             if ($this->mysqli->connect_errno){
                 exit("Nauspesna konekcija: greska> ".$this->mysqli->connect_error.", err kod>".$this->mysqli->connect_errno);
