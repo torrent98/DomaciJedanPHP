@@ -2,7 +2,7 @@
 
     <nav class= "navbar navbar-light sticky-top bottom_sep" style="background-color: #111111;">
 
-    <img src="../img/logo.png" class="logo-pic"/>
+    <img src="../img/logic.png" class="logo-pic"/> 
 
     <a class="navbar-brand a_header" href="#">
         <p class="text-white">Meni</p>
